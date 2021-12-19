@@ -1,1 +1,1 @@
-# borad_infinity
+# board_infinity
